@@ -108,9 +108,10 @@
     font-size: 3rem;
   }
   .form__left {
-    width: 90%;
-    height: 45%;
+    width: 85%;
+    height: 70%;
     gap: 0.1em;
+    justify-content: space-around;
   }
 
   .form__list {

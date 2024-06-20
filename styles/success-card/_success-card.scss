@@ -35,7 +35,7 @@
 
 
 .success-container__image {
-  height: 18%;
+  height: 10%;
   width: 18%;
 }
 
@@ -62,4 +62,32 @@
 .success-container__button:hover {
   cursor: pointer;
   background-image: linear-gradient(to bottom, #FF6A3A , #FF527B);
+}
+
+
+@media screen and (max-width: 26em) {
+  .success-container {
+    height: 100%;
+    width: 90%;
+    min-width: 0;
+    max-width: unset;
+    max-height: unset;
+    min-height: 0;
+
+    justify-content: center;
+
+    border-radius: 0;
+  }
+
+  .success-container__header {
+    font-size: 3em;
+  }
+
+  .success-container__button {
+    margin-top: auto;
+  }
+
+  .success-container__image {
+    margin-top: 5em;
+  }
 }
