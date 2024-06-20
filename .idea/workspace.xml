@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Huge update">
+    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Finish page 1 of mobile version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/_body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_body.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/form/_form-left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form-left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/form/_form-right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form-right.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/success-card/_success-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/success-card/_success-card.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718858394615</updated>
       <workItem from="1718858395684" duration="56000" />
-      <workItem from="1718858458445" duration="27066000" />
+      <workItem from="1718858458445" duration="28223000" />
     </task>
     <task id="LOCAL-00001" summary="Huge update">
       <option name="closed" value="true" />
@@ -92,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718893286150</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish page 1 of mobile version">
+      <option name="closed" value="true" />
+      <created>1718894705325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718894705325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Huge update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Huge update" />
+    <MESSAGE value="Finish page 1 of mobile version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish page 1 of mobile version" />
   </component>
 </project>
