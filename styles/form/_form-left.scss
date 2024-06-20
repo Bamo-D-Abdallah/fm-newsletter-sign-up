@@ -1,0 +1,125 @@
+.form__left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  height: 80%;
+  width: 45%;
+  padding-right: 3rem;
+  padding-left: 2rem;
+}
+
+
+.form__header,
+.success-container__header{
+  color: var(--color-dark-slate-grey);
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+
+
+.form__paragraph {
+  font-size: var(--font-size-paragraph);
+  line-height: 1.5;
+}
+
+
+.form__list {
+  line-height: 2;
+
+}
+
+.form__list > li {
+  background-image: url("../../assets/images/icon-list.svg");
+  background-repeat: no-repeat;
+  background-position-y: center;
+  padding: 0 2.5rem;
+}
+
+
+.form__input-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+  width: 100%;
+}
+
+.form__input-container__label {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.form__input-container__input {
+  border-radius: 0.5em;
+  padding: 1em 1.5em;
+  font-size: var(--font-size-paragraph);
+  background: none;
+  box-shadow: none;
+  border: var(--color-grey) solid 0.1em
+}
+
+.input_container__labels {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form__input__error {
+  display: none;
+  color: var(--color-primary);
+}
+
+.form__input__error--active {
+  display: block;
+}
+
+.form__input-container__input--error {
+  color: var(--color-primary);
+  background-color: var(--color-primary-lighten);
+  border-color: var(--color-primary);
+}
+
+.form__input-container__input--error::placeholder {
+  color: var(--color-primary);
+}
+
+.form__input-container__input::placeholder {
+  border-color: var(--color-grey);
+}
+
+.form__submit {
+  background-color: var(--color-dark-slate-grey);
+  color: var(--color-white);
+  align-self: stretch;
+  padding: 1.25em;
+  border-radius: 0.5em;
+  font-size: 1rem;
+  border: none;
+}
+
+.form__submit:hover {
+  cursor: pointer;
+  background-image: linear-gradient(to bottom, #FF6A3A , #FF527B);
+}
+
+
+
+@media screen and (max-width: 26em) {
+  .form__header {
+    font-size: 3rem;
+  }
+  .form__left {
+    width: 90%;
+    height: 45%;
+    gap: 0.1em;
+  }
+
+  .form__list {
+    line-height: 1.5;
+  }
+
+  .form__list > li {
+    line-height: 1.5;
+    background-position-y: top;
+    margin-top: 0.5em;
+  }
+}
