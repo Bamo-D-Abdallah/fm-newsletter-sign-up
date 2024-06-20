@@ -1,0 +1,17 @@
+@use './reset';
+@use './variables' as *;
+@use './form/form';
+@use './form/form-left';
+@use './form/form-right';
+@use './frontend-initial';
+@use './body';
+@use './success-card/success-card';
+
+@forward './reset';
+@forward './variables';
+@forward './form/form';
+@forward './form/form-left';
+@forward './form/form-right';
+@forward './frontend-initial';
+@forward './body';
+@forward './success-card/success-card';
