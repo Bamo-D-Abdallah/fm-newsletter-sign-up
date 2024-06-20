@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Finish page 1 of mobile version">
+    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Finish design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/success-card/_success-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/success-card/_success-card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718858394615</updated>
       <workItem from="1718858395684" duration="56000" />
-      <workItem from="1718858458445" duration="28223000" />
+      <workItem from="1718858458445" duration="28576000" />
     </task>
     <task id="LOCAL-00001" summary="Huge update">
       <option name="closed" value="true" />
@@ -95,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718894705325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finish design">
+      <option name="closed" value="true" />
+      <created>1718895864997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718895864997</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Huge update" />
     <MESSAGE value="Finish page 1 of mobile version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish page 1 of mobile version" />
+    <MESSAGE value="Finish design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish design" />
   </component>
 </project>
