@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Fix radius">
+    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Fix icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <updated>1718858394615</updated>
       <workItem from="1718858395684" duration="56000" />
       <workItem from="1718858458445" duration="28792000" />
-      <workItem from="1718897057420" duration="778000" />
+      <workItem from="1718897057420" duration="1400000" />
     </task>
     <task id="LOCAL-00001" summary="Huge update">
       <option name="closed" value="true" />
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718896289442</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix icon">
+      <option name="closed" value="true" />
+      <created>1718898394782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718898394782</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,7 @@
     <MESSAGE value="Finish page 1 of mobile version" />
     <MESSAGE value="Finish design" />
     <MESSAGE value="Fix radius" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix radius" />
+    <MESSAGE value="Fix icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix icon" />
   </component>
 </project>
