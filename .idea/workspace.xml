@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_body.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_frontend-initial.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/form/_form-left.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/form/_form-right.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/form/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/success-card/_success-card.scss" afterDir="false" />
+    <list default="true" id="89f45542-d78a-4caa-b08f-c7401c666c2c" name="Changes" comment="Huge update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_body.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/form/_form-left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form-left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/form/_form-right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form-right.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/form/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/success-card/_success-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/success-card/_success-card.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bamo-D-Abdallah"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bamo-D-Abdallah/fm-newsletter-sign-up.git",
+    "accountId": "e980b842-a45d-4148-9aee-78b84e226022"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -74,11 +82,35 @@
       <option name="presentableId" value="Default" />
       <updated>1718858394615</updated>
       <workItem from="1718858395684" duration="56000" />
-      <workItem from="1718858458445" duration="25512000" />
+      <workItem from="1718858458445" duration="27066000" />
     </task>
+    <task id="LOCAL-00001" summary="Huge update">
+      <option name="closed" value="true" />
+      <created>1718893286150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718893286150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Huge update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Huge update" />
   </component>
 </project>

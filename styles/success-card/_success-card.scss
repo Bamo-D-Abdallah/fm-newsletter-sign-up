@@ -63,3 +63,13 @@
   cursor: pointer;
   background-image: linear-gradient(to bottom, #FF6A3A , #FF527B);
 }
+
+
+@media screen and (max-width: 26em) {
+  .success-container {
+    height: 100%;
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+  }
+}

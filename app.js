@@ -31,7 +31,7 @@ dismissButton.addEventListener("click", () => {
 })
 
 window.addEventListener("resize", () => {
-    if(window.innerWidth < 376) {
+    if(window.innerWidth < 450) {
         signupImage.src = "./assets/images/illustration-sign-up-mobile.svg"
     } else {
         signupImage.src = "./assets/images/illustration-sign-up-desktop.svg"
